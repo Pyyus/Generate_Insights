@@ -1,19 +1,38 @@
 # 📊 LLM-Powered Exploratory Data Analysis (EDA)
 <p>This is a Gradio-powered Python application that performs automated Exploratory Data Analysis (EDA) on any uploaded CSV dataset using traditional statistics and LLM-based AI insights with Mistral-7B (via Ollama). It also generates visualizations like histograms and correlation heatmaps.</p>
+<table style="width:100%">
+  <tr>
+    <th>🛠️ Tech Stack</th>
+    <th>Install before run</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pandas</td>
+    <td>pip install pandas</td>
+  </tr>
+    <tr>
+    <td>Seaborn</td>
+    <td>pip install seaborn</td>
+  </tr>
+    <tr>
+    <td>Matplotlib</td>
+    <td>pip install matplotlib</td>
+  </tr>
+    <tr>
+    <td>Gradio</td>
+    <td>pip install gradio</td>
+  </tr>
+    <tr>
+    <td>Ollama (Mistral-7B)</td>
+    <td>ollama pull mistral</td>
+  </tr>
+</table>
 
-<h3>🛠️ Tech Stack</h3>
-
-    Python
-
-    Pandas
-
-    Seaborn
-
-    Matplotlib
-
-    Gradio
-
-    Ollama (Mistral-7B)
+In VS Code terminal
+<h3>To run: python app.py</h3> 
 <h1>The below image shows a web interface where users can upload a dataset in CSV format to automatically generate insights and visualizations for numerical data using Exploratory Data Analysis (EDA).</h1>
 <img width="1775" height="685" alt="Screenshot 2025-07-29 153159" src="https://github.com/user-attachments/assets/c82ef732-3b15-427b-adf9-e8edcc79eab8" />
 
