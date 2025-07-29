@@ -33,10 +33,10 @@
 
 In VS Code terminal
 <h3>To run: python app.py</h3> 
-<h1>The below image shows a web interface where users can upload a dataset in CSV format to automatically generate insights and visualizations for numerical data using Exploratory Data Analysis (EDA).</h1>
+<h3>The below image shows a web interface where users can upload a dataset in CSV format to automatically generate insights and visualizations for numerical data using Exploratory Data Analysis (EDA).</h3>
 <img width="1775" height="685" alt="Screenshot 2025-07-29 153159" src="https://github.com/user-attachments/assets/c82ef732-3b15-427b-adf9-e8edcc79eab8" />
 
-<h1>Once the dataset is uploaded, the system processes the data and presents automated insights along with various visualizations—like bar charts, histograms, and other plots—to help users better understand the dataset.</h1>
+<h3>Once the dataset is uploaded, the system processes the data and presents automated insights along with various visualizations—like bar charts, histograms, and other plots—to help users better understand the dataset.</h3>
 <img width="1920" height="1080" alt="Screenshot 2025-07-29 174239" src="https://github.com/user-attachments/assets/914ce96c-2739-4f15-92ca-d90930944fd3" />
 
 <h1>DATA VISUALIZATIONS</h1>
